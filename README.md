@@ -1,6 +1,4 @@
  
-    
-Edit mode:  
 ### Install BackstopJS Globally
 ```
 npm install -g backstopjs
