@@ -1,0 +1,15 @@
+{
+  "name": "backstop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "backstop:reference": "backstop reference --configPath=backstop-settings.js --pathfile=paths",
+      "backstop:test": "backstop test --configPath=backstop-settings.js --pathfile=paths"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backstopjs": "^3.8.5"
+  }
+}
